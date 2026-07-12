@@ -118,7 +118,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
-  git clone https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git
+  git clone https://github.com/diveshkumar2233/Movie-Recommendation-System-MOVICO.git
   ```
 <br>
 
